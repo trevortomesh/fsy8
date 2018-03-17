@@ -1,6 +1,4 @@
 # fsy8
 The FSY8 Fantasy Microcontroller
 
-## Oops! More info coming ASAP!
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/trevortomesh/fsy8/blob/master/img/fsy8Demo.gif)
