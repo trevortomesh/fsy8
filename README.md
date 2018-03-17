@@ -46,3 +46,15 @@ by those who work within the platform.
 
 Long story short -- I thought, "hey, that's a great idea! What if the platform
 was a microcontroller, though?"
+
+... although, I have to acknowledge that ZACHTRONICS (http://www.zachtronics.com/shenzhen-io/)
+ really beat me to the punch on this. :-p
+
+## How about an instruction set?
+So, first things first -- I am working on building something I can interact with
+in python. Then I'll write an assembly interpreter. I think. Let me at least
+get the ALU structure and block diagramming figured out.
+
+## Can I help?
+Yes please. Send me a pull request or open an issue! You've probably got better
+ideas and are smarter than me. 
