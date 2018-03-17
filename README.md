@@ -10,6 +10,10 @@ The FSY8 (pronounced fizzy-8) is a "fantasy microcontroller" inspired by the
 It started as a thought experiment for my thesis work, but sort of took on a
 life of it's own.
 
+## Why "FSY8? Why not FSY9?"
+... because it's got 8 pins.
+
+
 ## Does it have specs?
 Yes -- well, basic specs at least. A formal spec sheet is being drawn up, but
 here's the baics:
