@@ -20,6 +20,9 @@ here's the basics:
 
 ![Alt Text](https://github.com/trevortomesh/fsy8/blob/master/img/FSY8.png)
 
+And here's a block diagram:
+![Alt Text](https://github.com/trevortomesh/fsy8/blob/master/img/fsy8Block.png)
+
 ## So -- installation instructions?
 As of right now -- you can't. It doesn't really exist yet in an executable form (working on it).
 
@@ -57,4 +60,4 @@ get the ALU structure and block diagramming figured out.
 
 ## Can I help?
 Yes please. Send me a pull request or open an issue! You've probably got better
-ideas and are smarter than me. 
+ideas and are smarter than me.
